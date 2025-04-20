@@ -101,7 +101,7 @@ conversion/
 
 ## 🖼️ Screenshot
 
-*(Add a screenshot of your app working here if you want)*
+You can see a video of the project in action on my [LinkedIn]([https://www.linkedin.com/in/gabriel-rodrigues-mt/](https://www.linkedin.com/feed/update/urn:li:activity:7319528204002557952/?originTrackingId=GNZ3O40BRbi00irm4bRJwQ%3D%3D)).
 
 ---
 
